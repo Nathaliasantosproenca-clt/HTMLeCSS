@@ -1,4 +1,18 @@
+header {
+    border-bottom-style: solid;
+    border-color: cyan1;
+}
 body{
     color: azure;
     background-color: black;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
 }
