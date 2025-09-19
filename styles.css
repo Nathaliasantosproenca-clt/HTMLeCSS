@@ -1,10 +1,9 @@
-header {
-    border-bottom-style: solid;
-    border-color: cyan1;
-}
 body{
     color: azure;
     background-color: black;
+}
+header{
+    border: solid 10px rgb(142, 35, 230);
 }
 h1{
     text-align: center;
