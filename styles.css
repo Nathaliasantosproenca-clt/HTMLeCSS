@@ -1,17 +1,15 @@
 body{
     color: azure;
-    background-color: black;
+    background: black;
+    margin:0px;
 }
 header{
-    border: solid 10px rgb(142, 35, 230);
+    border-bottom: solid 10px rgb(142, 35, 230);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
 }
 h1{
     text-align: center;
     color: blueviolet;
-}
-h2{
-    text-align: center;
-}
-h3{
-    text-align: center;
 }
