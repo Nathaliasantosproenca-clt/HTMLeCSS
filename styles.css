@@ -17,9 +17,10 @@ h1{
 }
 
 h2{
-     font-family: "UnifrakturMaguntia", cursive;
+    justify-content: center;
+    font-family: "UnifrakturMaguntia", cursive;
     font-weight: 400;
-    font-style: normal;
+    font-style: italic;
 }
 section{
     text-align: center;
@@ -27,4 +28,8 @@ section{
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
+    justify-content: center;
+}
+.chamada-texto {
+    margin-right: 5%;
 }
