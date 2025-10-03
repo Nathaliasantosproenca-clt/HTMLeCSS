@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
 
 body{
     color: azure;
@@ -8,27 +9,25 @@ body{
 h1{
     text-align: center;
     color: rgb(242, 233, 250);
-    background-color: darkblue;
-    display:inline-block;
-    margin-left: 41%;
-    padding-left: 5%;
-    padding-right: 5%;
-    border-radius: 5%;
+    font-size: 60px;
+    padding-top: 10px;
+    font-family: "Eater", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 h2{
-    justify-content: center;
+    text-align: center;
     font-family: "UnifrakturMaguntia", cursive;
     font-weight: 400;
     font-style: italic;
 }
 section{
-    text-align: center;
-    background: rgb(184,156,213);
+    background: rgb(76, 3, 90);
     padding-bottom: 80px;
     padding-top: 80px;
-    display: flex;
-    justify-content: center;
+    text-align: center;
+    
 }
 .chamada-texto {
     margin-right: 5%;
