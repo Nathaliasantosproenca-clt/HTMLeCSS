@@ -17,10 +17,16 @@ h1{
 }
 
 h2{
+    color: black;   
     text-align: center;
     font-family: "UnifrakturMaguntia", cursive;
     font-weight: 400;
     font-style: italic;
+}
+
+h3{
+    color: azure;
+    font-family: "UnifrakturMaguntia", cursive;
 }
 section{
     background: rgb(76, 3, 90);
@@ -32,3 +38,18 @@ section{
 .chamada-texto {
     margin-right: 5%;
 }
+img {
+    height: 200px;
+  }
+  .chamada {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
